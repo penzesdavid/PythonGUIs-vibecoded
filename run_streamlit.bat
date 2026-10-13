@@ -1,0 +1,3 @@
+@echo off
+echo Damareen - Streamlit GUI inditasa...
+python -m streamlit run "%~dp0streamlit_app.py"
